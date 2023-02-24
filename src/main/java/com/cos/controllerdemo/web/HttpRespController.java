@@ -24,3 +24,7 @@ public class HttpRespController {
 	
 	
 }
+/*
+ * 템플릿 엔진 왜 써?
+ * 자바 코드를 사용하기 위해서
+ * */
